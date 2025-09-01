@@ -78,9 +78,5 @@ plt.show()
 ```
 <img width="821" height="425" alt="image" src="https://github.com/user-attachments/assets/a58d18d7-7df0-429b-872d-35130daa95a2" />
 
- ** Result**
-  This experiment is executed successfully
-
-
-
-Highlight the stadiums hosting maximum matches.
+ **Result**
+This experiment is executed successfully
