@@ -65,6 +65,7 @@ plt.title("Toss Decisions (Bat or Field)")
 plt.show()
 ```
 <img width="627" height="369" alt="image" src="https://github.com/user-attachments/assets/af3564c8-4fc8-44fb-9295-bbef773aee3a" />
+
 ```
 venue_counts = matches['venue'].value_counts().head(5) 
 print("\nTop Venues:\n", venue_counts)
